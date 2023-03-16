@@ -13,4 +13,7 @@ namespace ikojun00
             //klkl
         }
     }
+    class NewClass2
+    {
+    }
 }
