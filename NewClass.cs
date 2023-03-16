@@ -8,5 +8,9 @@ namespace ikojun00
 {
     class NewClass
     {
+        class a
+        {
+
+        }
     }
 }
