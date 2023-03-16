@@ -10,7 +10,7 @@ namespace ikojun00
     {
         class a
         {
-
+            //klkl
         }
     }
 }
