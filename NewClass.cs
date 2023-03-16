@@ -9,4 +9,7 @@ namespace ikojun00
     class NewClass
     {
     }
+    class NewClass2
+    {
+    }
 }
